@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">پښتو ادب</string>
+    <string name="title_activity_main">پښتو ادب</string>
+    <string name="package_name">com.pashto.adab</string>
+    <string name="custom_url_scheme">com.pashto.adab</string>
+</resources>
